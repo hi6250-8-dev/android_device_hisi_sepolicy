@@ -53,6 +53,9 @@
 # HWFS
 /vendor/bin/hw/vendor\.huawei\.hardware\.hwfs@1\.0-service u:object_r:vendor_hal_hisi_hwfs_default_exec:s0
 
+# Ir
+/vendor/bin/hw/android\.hardware\.ir-service\.huawei u:object_r:hal_ir_default_exec:s0
+
 # Light
 /vendor/bin/hw/android\.hardware\.light-service\.huawei u:object_r:hal_light_default_exec:s0
 
